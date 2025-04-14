@@ -5,7 +5,7 @@ page_type: sample
 products:
 - azure-functions
 - azure
-- blob
+- azure-blob-storage
 urlFragment: event-blob-trigger-to-pdf
 languages:
 - javascript
