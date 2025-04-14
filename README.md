@@ -1,16 +1,18 @@
+<!--
 ---
 description: This end-to-end JavaScript sample showcases an event-based Blob storage triggered function that converts PDF documents to text at scale.
 page_type: sample
 products:
 - azure-functions
 - azure
+- blob
 urlFragment: event-blob-trigger-to-pdf
 languages:
 - javascript
 - bicep
 - azdeveloper
 ---
-
+-->
 # Flex Consumption plan - PDF to text processor | Azure Functions
 
 Processing binary files from Azure Blob Storage is a key scenario for Azure Functions. This end-to-end JavaScript sample showcases an event-based Blob storage triggered function that converts PDF documents to text at scale. It also uses managed identity and a virtual network between the function app and storage account for security best practices.
